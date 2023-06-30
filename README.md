@@ -126,20 +126,9 @@
 
 <br>
 
-## 📀 테스트 기록일지
-
-> #### [부하테스트 기록보기](https://silken-bead-5cb.notion.site/BE-7a320ddfdc1c4cce8a3ad8b4b77bc1bc)
->
-<br>
-
 ## 🛠 서비스 아키텍처
 
 ![image](https://github.com/project-danim/Danim-BE/assets/127404498/fc23d984-b3a6-4161-a3ba-332c51305f77)
-<br>
-
-## 🛠 ERD
-
-![Danim_erdDiagram](https://github.com/project-danim/Danim-BE/assets/97998858/c8d8d7f2-3a08-4016-8372-9fb65b9be53b)
 <br>
 
 ## ⚙ 기술스택
